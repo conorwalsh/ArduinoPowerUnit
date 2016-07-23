@@ -1,0 +1,2 @@
+# ArduinoPowerUnit
+This project is a power unit for an Arduino Microcontroller. The unit is supplied power using a 9V wall adapter and a 9V battery. When AC power is available the unit draws power from the wall adapter, when there is a power cut the unit seamlessly switches to the battery as a power source and back when power is available. During a power cut an LED is lit to alert the user that mains power is not available. There is also an LED to warn the user when the batteries are low.
