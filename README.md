@@ -30,7 +30,7 @@ This is a photo of the PCB without components.<br/>
 <img src="http://www.conorwalsh.net/APU/BOARD-REAL-RAW.jpg" width="350"/>
 
 This is a photo of the finished PCB with components.<br/>
-<img src="http://www.conorwalsh.net/APU/BREADBOARD-COM.jpg" width="350"/>
+<img src="http://www.conorwalsh.net/APU/BOARD-COM.png" width="350"/>
 
 License (MIT)
 ------
